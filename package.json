@@ -193,7 +193,7 @@
               "string",
               "null"
             ],
-            "default": "llama-3.1-70b-versatile",
+            "default": null,
             "markdownDescription": "Enter your [API Key](https://console.groq.com/keys) Groq"
           },
           "groq.llama3.model": {
@@ -201,7 +201,7 @@
               "string",
               "null"
             ],
-            "default": null,
+            "default": "llama-3.1-70b-versatile",
             "markdownDescription": "Provide the name of the Groq model you want to use. Choose from the ..."
           },
           "anthropic.model": {
